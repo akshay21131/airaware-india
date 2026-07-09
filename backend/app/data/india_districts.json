@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "new-delhi-delhi",
+    "name": "New Delhi",
+    "state": "Delhi",
+    "area": "Delhi",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "zone": "igp"
+  },
+  {
+    "id": "anand-vihar-delhi",
+    "name": "Anand Vihar",
+    "state": "Delhi",
+    "area": "Delhi",
+    "lat": 28.6469,
+    "lon": 77.316,
+    "zone": "igp"
+  },
+  {
+    "id": "ito-delhi",
+    "name": "ITO",
+    "state": "Delhi",
+    "area": "Delhi",
+    "lat": 28.6289,
+    "lon": 77.241,
+    "zone": "igp"
+  },
+  {
+    "id": "punjabi-bagh-delhi",
+    "name": "Punjabi Bagh",
+    "state": "Delhi",
+    "area": "Delhi",
+    "lat": 28.674,
+    "lon": 77.131,
+    "zone": "igp"
+  },
+  {
+    "id": "rohini-delhi",
+    "name": "Rohini",
+    "state": "Delhi",
+    "area": "Delhi",
+    "lat": 28.7439,
+    "lon": 77.0728,
+    "zone": "igp"
+  },
+  {
+    "id": "dwarka-delhi",
+    "name": "Dwarka",
+    "state": "Delhi",
+    "area": "Delhi",
+    "lat": 28.5921,
+    "lon": 77.046,
+    "zone": "igp"
+  },
+  {
+    "id": "gurugram-haryana",
+    "name": "Gurugram",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 28.4595,
+    "lon": 77.0266,
+    "zone": "igp"
+  },
+  {
+    "id": "faridabad-haryana",
+    "name": "Faridabad",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 28.4089,
+    "lon": 77.3178,
+    "zone": "igp"
+  },
+  {
+    "id": "ghaziabad-vasundhara-uttar-pradesh",
+    "name": "Ghaziabad Vasundhara",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 28.66,
+    "lon": 77.373,
+    "zone": "igp"
+  },
+  {
+    "id": "noida-uttar-pradesh",
+    "name": "Noida",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 28.5355,
+    "lon": 77.391,
+    "zone": "igp"
+  },
+  {
+    "id": "greater-noida-uttar-pradesh",
+    "name": "Greater Noida",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 28.4744,
+    "lon": 77.504,
+    "zone": "igp"
+  },
+  {
+    "id": "meerut-uttar-pradesh",
+    "name": "Meerut",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 28.9845,
+    "lon": 77.7064,
+    "zone": "igp"
+  },
+  {
+    "id": "sonipat-haryana",
+    "name": "Sonipat",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 28.9931,
+    "lon": 77.0151,
+    "zone": "igp"
+  },
+  {
+    "id": "panipat-haryana",
+    "name": "Panipat",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 29.3909,
+    "lon": 76.9635,
+    "zone": "igp"
+  },
+  {
+    "id": "rohtak-haryana",
+    "name": "Rohtak",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 28.8955,
+    "lon": 76.6066,
+    "zone": "igp"
+  },
+  {
+    "id": "karnal-haryana",
+    "name": "Karnal",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 29.6857,
+    "lon": 76.9905,
+    "zone": "igp"
+  },
+  {
+    "id": "hisar-haryana",
+    "name": "Hisar",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 29.1492,
+    "lon": 75.7217,
+    "zone": "arid"
+  },
+  {
+    "id": "ambala-haryana",
+    "name": "Ambala",
+    "state": "Haryana",
+    "area": "Haryana",
+    "lat": 30.3752,
+    "lon": 76.7821,
+    "zone": "igp"
+  },
+  {
+    "id": "ludhiana-punjab",
+    "name": "Ludhiana",
+    "state": "Punjab",
+    "area": "Punjab",
+    "lat": 30.901,
+    "lon": 75.8573,
+    "zone": "igp"
+  },
+  {
+    "id": "amritsar-punjab",
+    "name": "Amritsar",
+    "state": "Punjab",
+    "area": "Punjab",
+    "lat": 31.634,
+    "lon": 74.8723,
+    "zone": "igp"
+  },
+  {
+    "id": "jalandhar-punjab",
+    "name": "Jalandhar",
+    "state": "Punjab",
+    "area": "Punjab",
+    "lat": 31.326,
+    "lon": 75.5762,
+    "zone": "igp"
+  },
+  {
+    "id": "patiala-punjab",
+    "name": "Patiala",
+    "state": "Punjab",
+    "area": "Punjab",
+    "lat": 30.3398,
+    "lon": 76.3869,
+    "zone": "igp"
+  },
+  {
+    "id": "bathinda-punjab",
+    "name": "Bathinda",
+    "state": "Punjab",
+    "area": "Punjab",
+    "lat": 30.211,
+    "lon": 74.9455,
+    "zone": "arid"
+  },
+  {
+    "id": "mohali-punjab",
+    "name": "Mohali",
+    "state": "Punjab",
+    "area": "Punjab",
+    "lat": 30.7046,
+    "lon": 76.7179,
+    "zone": "igp"
+  },
+  {
+    "id": "chandigarh-chandigarh",
+    "name": "Chandigarh",
+    "state": "Chandigarh",
+    "area": "Chandigarh",
+    "lat": 30.7333,
+    "lon": 76.7794,
+    "zone": "igp"
+  },
+  {
+    "id": "lucknow-talkatora-uttar-pradesh",
+    "name": "Lucknow Talkatora",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "zone": "igp"
+  },
+  {
+    "id": "kanpur-nehru-nagar-uttar-pradesh",
+    "name": "Kanpur Nehru Nagar",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 26.4499,
+    "lon": 80.3319,
+    "zone": "igp"
+  },
+  {
+    "id": "agra-uttar-pradesh",
+    "name": "Agra",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 27.1767,
+    "lon": 78.0081,
+    "zone": "igp"
+  },
+  {
+    "id": "varanasi-uttar-pradesh",
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 25.3176,
+    "lon": 82.9739,
+    "zone": "igp"
+  },
+  {
+    "id": "prayagraj-uttar-pradesh",
+    "name": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 25.4358,
+    "lon": 81.8463,
+    "zone": "igp"
+  },
+  {
+    "id": "bareilly-uttar-pradesh",
+    "name": "Bareilly",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 28.367,
+    "lon": 79.4304,
+    "zone": "igp"
+  },
+  {
+    "id": "moradabad-uttar-pradesh",
+    "name": "Moradabad",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 28.8386,
+    "lon": 78.7733,
+    "zone": "igp"
+  },
+  {
+    "id": "aligarh-uttar-pradesh",
+    "name": "Aligarh",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 27.8974,
+    "lon": 78.088,
+    "zone": "igp"
+  },
+  {
+    "id": "gorakhpur-uttar-pradesh",
+    "name": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 26.7606,
+    "lon": 83.3732,
+    "zone": "igp"
+  },
+  {
+    "id": "jhansi-uttar-pradesh",
+    "name": "Jhansi",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 25.4484,
+    "lon": 78.5685,
+    "zone": "central"
+  },
+  {
+    "id": "mathura-uttar-pradesh",
+    "name": "Mathura",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 27.4924,
+    "lon": 77.6737,
+    "zone": "igp"
+  },
+  {
+    "id": "firozabad-uttar-pradesh",
+    "name": "Firozabad",
+    "state": "Uttar Pradesh",
+    "area": "Uttar Pradesh",
+    "lat": 27.1591,
+    "lon": 78.3958,
+    "zone": "igp"
+  },
+  {
+    "id": "patna-bihar",
+    "name": "Patna",
+    "state": "Bihar",
+    "area": "Bihar",
+    "lat": 25.5941,
+    "lon": 85.1376,
+    "zone": "igp"
+  },
+  {
+    "id": "gaya-bihar",
+    "name": "Gaya",
+    "state": "Bihar",
+    "area": "Bihar",
+    "lat": 24.7955,
+    "lon": 84.9994,
+    "zone": "igp"
+  },
+  {
+    "id": "muzaffarpur-bihar",
+    "name": "Muzaffarpur",
+    "state": "Bihar",
+    "area": "Bihar",
+    "lat": 26.1209,
+    "lon": 85.3647,
+    "zone": "igp"
+  },
+  {
+    "id": "bhagalpur-bihar",
+    "name": "Bhagalpur",
+    "state": "Bihar",
+    "area": "Bihar",
+    "lat": 25.2445,
+    "lon": 86.9718,
+    "zone": "igp"
+  },
+  {
+    "id": "ranchi-jharkhand",
+    "name": "Ranchi",
+    "state": "Jharkhand",
+    "area": "Jharkhand",
+    "lat": 23.3441,
+    "lon": 85.3096,
+    "zone": "central"
+  },
+  {
+    "id": "jamshedpur-jharkhand",
+    "name": "Jamshedpur",
+    "state": "Jharkhand",
+    "area": "Jharkhand",
+    "lat": 22.8046,
+    "lon": 86.2029,
+    "zone": "central"
+  },
+  {
+    "id": "dhanbad-jharkhand",
+    "name": "Dhanbad",
+    "state": "Jharkhand",
+    "area": "Jharkhand",
+    "lat": 23.7957,
+    "lon": 86.4304,
+    "zone": "central"
+  },
+  {
+    "id": "kolkata-west-bengal",
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "area": "West Bengal",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "zone": "gangetic-delta"
+  },
+  {
+    "id": "howrah-ghusuri-west-bengal",
+    "name": "Howrah Ghusuri",
+    "state": "West Bengal",
+    "area": "West Bengal",
+    "lat": 22.6,
+    "lon": 88.33,
+    "zone": "gangetic-delta"
+  },
+  {
+    "id": "durgapur-west-bengal",
+    "name": "Durgapur",
+    "state": "West Bengal",
+    "area": "West Bengal",
+    "lat": 23.5204,
+    "lon": 87.3119,
+    "zone": "gangetic-delta"
+  },
+  {
+    "id": "asansol-west-bengal",
+    "name": "Asansol",
+    "state": "West Bengal",
+    "area": "West Bengal",
+    "lat": 23.6739,
+    "lon": 86.9524,
+    "zone": "central"
+  },
+  {
+    "id": "siliguri-west-bengal",
+    "name": "Siliguri",
+    "state": "West Bengal",
+    "area": "West Bengal",
+    "lat": 26.7271,
+    "lon": 88.3953,
+    "zone": "northeast"
+  },
+  {
+    "id": "mumbai-maharashtra",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "zone": "coastal"
+  },
+  {
+    "id": "navi-mumbai-maharashtra",
+    "name": "Navi Mumbai",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 19.033,
+    "lon": 73.0297,
+    "zone": "coastal"
+  },
+  {
+    "id": "thane-maharashtra",
+    "name": "Thane",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 19.2183,
+    "lon": 72.9781,
+    "zone": "coastal"
+  },
+  {
+    "id": "pune-maharashtra",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "zone": "peninsular"
+  },
+  {
+    "id": "nagpur-maharashtra",
+    "name": "Nagpur",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 21.1458,
+    "lon": 79.0882,
+    "zone": "central"
+  },
+  {
+    "id": "nashik-maharashtra",
+    "name": "Nashik",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 19.9975,
+    "lon": 73.7898,
+    "zone": "peninsular"
+  },
+  {
+    "id": "aurangabad-maharashtra",
+    "name": "Aurangabad",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 19.8762,
+    "lon": 75.3433,
+    "zone": "peninsular"
+  },
+  {
+    "id": "solapur-maharashtra",
+    "name": "Solapur",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 17.6599,
+    "lon": 75.9064,
+    "zone": "peninsular"
+  },
+  {
+    "id": "kolhapur-maharashtra",
+    "name": "Kolhapur",
+    "state": "Maharashtra",
+    "area": "Maharashtra",
+    "lat": 16.705,
+    "lon": 74.2433,
+    "zone": "peninsular"
+  },
+  {
+    "id": "ahmedabad-airport-gujarat",
+    "name": "Ahmedabad Airport",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 23.0772,
+    "lon": 72.6347,
+    "zone": "arid"
+  },
+  {
+    "id": "surat-gujarat",
+    "name": "Surat",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 21.1702,
+    "lon": 72.8311,
+    "zone": "coastal"
+  },
+  {
+    "id": "vadodara-gujarat",
+    "name": "Vadodara",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 22.3072,
+    "lon": 73.1812,
+    "zone": "arid"
+  },
+  {
+    "id": "rajkot-gujarat",
+    "name": "Rajkot",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 22.3039,
+    "lon": 70.8022,
+    "zone": "arid"
+  },
+  {
+    "id": "bhavnagar-gujarat",
+    "name": "Bhavnagar",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 21.7645,
+    "lon": 72.1519,
+    "zone": "coastal"
+  },
+  {
+    "id": "jamnagar-gujarat",
+    "name": "Jamnagar",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 22.4707,
+    "lon": 70.0577,
+    "zone": "coastal"
+  },
+  {
+    "id": "gandhinagar-gujarat",
+    "name": "Gandhinagar",
+    "state": "Gujarat",
+    "area": "Gujarat",
+    "lat": 23.2156,
+    "lon": 72.6369,
+    "zone": "arid"
+  },
+  {
+    "id": "jaipur-rajasthan",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "zone": "arid"
+  },
+  {
+    "id": "jodhpur-rajasthan",
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 26.2389,
+    "lon": 73.0243,
+    "zone": "arid"
+  },
+  {
+    "id": "udaipur-rajasthan",
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 24.5854,
+    "lon": 73.7125,
+    "zone": "arid"
+  },
+  {
+    "id": "kota-rajasthan",
+    "name": "Kota",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 25.2138,
+    "lon": 75.8648,
+    "zone": "arid"
+  },
+  {
+    "id": "bikaner-rajasthan",
+    "name": "Bikaner",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 28.0229,
+    "lon": 73.3119,
+    "zone": "arid"
+  },
+  {
+    "id": "ajmer-rajasthan",
+    "name": "Ajmer",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 26.4499,
+    "lon": 74.6399,
+    "zone": "arid"
+  },
+  {
+    "id": "alwar-rajasthan",
+    "name": "Alwar",
+    "state": "Rajasthan",
+    "area": "Rajasthan",
+    "lat": 27.553,
+    "lon": 76.6346,
+    "zone": "arid"
+  },
+  {
+    "id": "bhopal-madhya-pradesh",
+    "name": "Bhopal",
+    "state": "Madhya Pradesh",
+    "area": "Madhya Pradesh",
+    "lat": 23.2599,
+    "lon": 77.4126,
+    "zone": "central"
+  },
+  {
+    "id": "indore-madhya-pradesh",
+    "name": "Indore",
+    "state": "Madhya Pradesh",
+    "area": "Madhya Pradesh",
+    "lat": 22.7196,
+    "lon": 75.8577,
+    "zone": "central"
+  },
+  {
+    "id": "gwalior-madhya-pradesh",
+    "name": "Gwalior",
+    "state": "Madhya Pradesh",
+    "area": "Madhya Pradesh",
+    "lat": 26.2183,
+    "lon": 78.1828,
+    "zone": "central"
+  },
+  {
+    "id": "jabalpur-madhya-pradesh",
+    "name": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "area": "Madhya Pradesh",
+    "lat": 23.1815,
+    "lon": 79.9864,
+    "zone": "central"
+  },
+  {
+    "id": "ujjain-madhya-pradesh",
+    "name": "Ujjain",
+    "state": "Madhya Pradesh",
+    "area": "Madhya Pradesh",
+    "lat": 23.1793,
+    "lon": 75.7849,
+    "zone": "central"
+  },
+  {
+    "id": "sagar-madhya-pradesh",
+    "name": "Sagar",
+    "state": "Madhya Pradesh",
+    "area": "Madhya Pradesh",
+    "lat": 23.8388,
+    "lon": 78.7378,
+    "zone": "central"
+  },
+  {
+    "id": "raipur-chhattisgarh",
+    "name": "Raipur",
+    "state": "Chhattisgarh",
+    "area": "Chhattisgarh",
+    "lat": 21.2514,
+    "lon": 81.6296,
+    "zone": "central"
+  },
+  {
+    "id": "bhilai-chhattisgarh",
+    "name": "Bhilai",
+    "state": "Chhattisgarh",
+    "area": "Chhattisgarh",
+    "lat": 21.1938,
+    "lon": 81.3509,
+    "zone": "central"
+  },
+  {
+    "id": "bilaspur-chhattisgarh",
+    "name": "Bilaspur",
+    "state": "Chhattisgarh",
+    "area": "Chhattisgarh",
+    "lat": 22.0797,
+    "lon": 82.1409,
+    "zone": "central"
+  },
+  {
+    "id": "korba-chhattisgarh",
+    "name": "Korba",
+    "state": "Chhattisgarh",
+    "area": "Chhattisgarh",
+    "lat": 22.3595,
+    "lon": 82.7501,
+    "zone": "central"
+  },
+  {
+    "id": "bengaluru-karnataka",
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "zone": "peninsular"
+  },
+  {
+    "id": "mysuru-karnataka",
+    "name": "Mysuru",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 12.2958,
+    "lon": 76.6394,
+    "zone": "peninsular"
+  },
+  {
+    "id": "hubli-dharwad-karnataka",
+    "name": "Hubli-Dharwad",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 15.3647,
+    "lon": 75.124,
+    "zone": "peninsular"
+  },
+  {
+    "id": "mangaluru-karnataka",
+    "name": "Mangaluru",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 12.9141,
+    "lon": 74.856,
+    "zone": "coastal"
+  },
+  {
+    "id": "belagavi-karnataka",
+    "name": "Belagavi",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 15.8497,
+    "lon": 74.4977,
+    "zone": "peninsular"
+  },
+  {
+    "id": "kalaburagi-karnataka",
+    "name": "Kalaburagi",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 17.3297,
+    "lon": 76.8343,
+    "zone": "peninsular"
+  },
+  {
+    "id": "ballari-karnataka",
+    "name": "Ballari",
+    "state": "Karnataka",
+    "area": "Karnataka",
+    "lat": 15.1394,
+    "lon": 76.9214,
+    "zone": "peninsular"
+  },
+  {
+    "id": "hyderabad-telangana",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "area": "Telangana",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "zone": "peninsular"
+  },
+  {
+    "id": "warangal-telangana",
+    "name": "Warangal",
+    "state": "Telangana",
+    "area": "Telangana",
+    "lat": 17.9689,
+    "lon": 79.5941,
+    "zone": "peninsular"
+  },
+  {
+    "id": "nizamabad-telangana",
+    "name": "Nizamabad",
+    "state": "Telangana",
+    "area": "Telangana",
+    "lat": 18.6725,
+    "lon": 78.094,
+    "zone": "peninsular"
+  },
+  {
+    "id": "visakhapatnam-andhra-pradesh",
+    "name": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "area": "Andhra Pradesh",
+    "lat": 17.6868,
+    "lon": 83.2185,
+    "zone": "coastal"
+  },
+  {
+    "id": "vijayawada-andhra-pradesh",
+    "name": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "area": "Andhra Pradesh",
+    "lat": 16.5062,
+    "lon": 80.648,
+    "zone": "coastal"
+  },
+  {
+    "id": "guntur-andhra-pradesh",
+    "name": "Guntur",
+    "state": "Andhra Pradesh",
+    "area": "Andhra Pradesh",
+    "lat": 16.3067,
+    "lon": 80.4365,
+    "zone": "coastal"
+  },
+  {
+    "id": "tirupati-andhra-pradesh",
+    "name": "Tirupati",
+    "state": "Andhra Pradesh",
+    "area": "Andhra Pradesh",
+    "lat": 13.6288,
+    "lon": 79.4192,
+    "zone": "peninsular"
+  },
+  {
+    "id": "nellore-andhra-pradesh",
+    "name": "Nellore",
+    "state": "Andhra Pradesh",
+    "area": "Andhra Pradesh",
+    "lat": 14.4426,
+    "lon": 79.9865,
+    "zone": "coastal"
+  },
+  {
+    "id": "kurnool-andhra-pradesh",
+    "name": "Kurnool",
+    "state": "Andhra Pradesh",
+    "area": "Andhra Pradesh",
+    "lat": 15.8281,
+    "lon": 78.0373,
+    "zone": "peninsular"
+  },
+  {
+    "id": "chennai-tamil-nadu",
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "zone": "coastal"
+  },
+  {
+    "id": "coimbatore-tamil-nadu",
+    "name": "Coimbatore",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 11.0168,
+    "lon": 76.9558,
+    "zone": "peninsular"
+  },
+  {
+    "id": "madurai-tamil-nadu",
+    "name": "Madurai",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 9.9252,
+    "lon": 78.1198,
+    "zone": "peninsular"
+  },
+  {
+    "id": "tiruchirappalli-tamil-nadu",
+    "name": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 10.7905,
+    "lon": 78.7047,
+    "zone": "peninsular"
+  },
+  {
+    "id": "salem-tamil-nadu",
+    "name": "Salem",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 11.6643,
+    "lon": 78.146,
+    "zone": "peninsular"
+  },
+  {
+    "id": "tirunelveli-tamil-nadu",
+    "name": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 8.7139,
+    "lon": 77.7567,
+    "zone": "peninsular"
+  },
+  {
+    "id": "tuticorin-tamil-nadu",
+    "name": "Tuticorin",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 8.7642,
+    "lon": 78.1348,
+    "zone": "coastal"
+  },
+  {
+    "id": "vellore-tamil-nadu",
+    "name": "Vellore",
+    "state": "Tamil Nadu",
+    "area": "Tamil Nadu",
+    "lat": 12.9165,
+    "lon": 79.1325,
+    "zone": "peninsular"
+  },
+  {
+    "id": "thiruvananthapuram-kerala",
+    "name": "Thiruvananthapuram",
+    "state": "Kerala",
+    "area": "Kerala",
+    "lat": 8.5241,
+    "lon": 76.9366,
+    "zone": "coastal"
+  },
+  {
+    "id": "kochi-kerala",
+    "name": "Kochi",
+    "state": "Kerala",
+    "area": "Kerala",
+    "lat": 9.9312,
+    "lon": 76.2673,
+    "zone": "coastal"
+  },
+  {
+    "id": "kozhikode-kerala",
+    "name": "Kozhikode",
+    "state": "Kerala",
+    "area": "Kerala",
+    "lat": 11.2588,
+    "lon": 75.7804,
+    "zone": "coastal"
+  },
+  {
+    "id": "thrissur-kerala",
+    "name": "Thrissur",
+    "state": "Kerala",
+    "area": "Kerala",
+    "lat": 10.5276,
+    "lon": 76.2144,
+    "zone": "coastal"
+  },
+  {
+    "id": "kollam-kerala",
+    "name": "Kollam",
+    "state": "Kerala",
+    "area": "Kerala",
+    "lat": 8.8932,
+    "lon": 76.6141,
+    "zone": "coastal"
+  },
+  {
+    "id": "kannur-kerala",
+    "name": "Kannur",
+    "state": "Kerala",
+    "area": "Kerala",
+    "lat": 11.8745,
+    "lon": 75.3704,
+    "zone": "coastal"
+  },
+  {
+    "id": "bhubaneswar-odisha",
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "area": "Odisha",
+    "lat": 20.2961,
+    "lon": 85.8245,
+    "zone": "peninsular"
+  },
+  {
+    "id": "cuttack-odisha",
+    "name": "Cuttack",
+    "state": "Odisha",
+    "area": "Odisha",
+    "lat": 20.4625,
+    "lon": 85.883,
+    "zone": "peninsular"
+  },
+  {
+    "id": "rourkela-odisha",
+    "name": "Rourkela",
+    "state": "Odisha",
+    "area": "Odisha",
+    "lat": 22.2604,
+    "lon": 84.8536,
+    "zone": "central"
+  },
+  {
+    "id": "puri-odisha",
+    "name": "Puri",
+    "state": "Odisha",
+    "area": "Odisha",
+    "lat": 19.8135,
+    "lon": 85.8312,
+    "zone": "coastal"
+  },
+  {
+    "id": "berhampur-odisha",
+    "name": "Berhampur",
+    "state": "Odisha",
+    "area": "Odisha",
+    "lat": 19.3149,
+    "lon": 84.7941,
+    "zone": "coastal"
+  },
+  {
+    "id": "guwahati-assam",
+    "name": "Guwahati",
+    "state": "Assam",
+    "area": "Assam",
+    "lat": 26.1445,
+    "lon": 91.7362,
+    "zone": "northeast"
+  },
+  {
+    "id": "dibrugarh-assam",
+    "name": "Dibrugarh",
+    "state": "Assam",
+    "area": "Assam",
+    "lat": 27.4728,
+    "lon": 94.912,
+    "zone": "northeast"
+  },
+  {
+    "id": "silchar-assam",
+    "name": "Silchar",
+    "state": "Assam",
+    "area": "Assam",
+    "lat": 24.8333,
+    "lon": 92.7789,
+    "zone": "northeast"
+  },
+  {
+    "id": "agartala-tripura",
+    "name": "Agartala",
+    "state": "Tripura",
+    "area": "Tripura",
+    "lat": 23.8315,
+    "lon": 91.2868,
+    "zone": "northeast"
+  },
+  {
+    "id": "shillong-meghalaya",
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "area": "Meghalaya",
+    "lat": 25.5788,
+    "lon": 91.8933,
+    "zone": "northeast"
+  },
+  {
+    "id": "imphal-manipur",
+    "name": "Imphal",
+    "state": "Manipur",
+    "area": "Manipur",
+    "lat": 24.817,
+    "lon": 93.9368,
+    "zone": "northeast"
+  },
+  {
+    "id": "aizawl-mizoram",
+    "name": "Aizawl",
+    "state": "Mizoram",
+    "area": "Mizoram",
+    "lat": 23.7271,
+    "lon": 92.7176,
+    "zone": "northeast"
+  },
+  {
+    "id": "kohima-nagaland",
+    "name": "Kohima",
+    "state": "Nagaland",
+    "area": "Nagaland",
+    "lat": 25.6751,
+    "lon": 94.1086,
+    "zone": "northeast"
+  },
+  {
+    "id": "itanagar-arunachal-pradesh",
+    "name": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "area": "Arunachal Pradesh",
+    "lat": 27.0844,
+    "lon": 93.6053,
+    "zone": "northeast"
+  },
+  {
+    "id": "gangtok-sikkim",
+    "name": "Gangtok",
+    "state": "Sikkim",
+    "area": "Sikkim",
+    "lat": 27.3389,
+    "lon": 88.6065,
+    "zone": "himalayan"
+  },
+  {
+    "id": "srinagar-jammu-and-kashmir",
+    "name": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "area": "Jammu and Kashmir",
+    "lat": 34.0837,
+    "lon": 74.7973,
+    "zone": "himalayan"
+  },
+  {
+    "id": "jammu-jammu-and-kashmir",
+    "name": "Jammu",
+    "state": "Jammu and Kashmir",
+    "area": "Jammu and Kashmir",
+    "lat": 32.7266,
+    "lon": 74.857,
+    "zone": "himalayan"
+  },
+  {
+    "id": "shimla-himachal-pradesh",
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "area": "Himachal Pradesh",
+    "lat": 31.1048,
+    "lon": 77.1734,
+    "zone": "himalayan"
+  },
+  {
+    "id": "dharamshala-himachal-pradesh",
+    "name": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "area": "Himachal Pradesh",
+    "lat": 32.219,
+    "lon": 76.3234,
+    "zone": "himalayan"
+  },
+  {
+    "id": "solan-himachal-pradesh",
+    "name": "Solan",
+    "state": "Himachal Pradesh",
+    "area": "Himachal Pradesh",
+    "lat": 30.9045,
+    "lon": 77.0967,
+    "zone": "himalayan"
+  },
+  {
+    "id": "dehradun-uttarakhand",
+    "name": "Dehradun",
+    "state": "Uttarakhand",
+    "area": "Uttarakhand",
+    "lat": 30.3165,
+    "lon": 78.0322,
+    "zone": "himalayan"
+  },
+  {
+    "id": "haridwar-uttarakhand",
+    "name": "Haridwar",
+    "state": "Uttarakhand",
+    "area": "Uttarakhand",
+    "lat": 29.9457,
+    "lon": 78.1642,
+    "zone": "igp"
+  },
+  {
+    "id": "nainital-uttarakhand",
+    "name": "Nainital",
+    "state": "Uttarakhand",
+    "area": "Uttarakhand",
+    "lat": 29.3803,
+    "lon": 79.4636,
+    "zone": "himalayan"
+  },
+  {
+    "id": "haldwani-uttarakhand",
+    "name": "Haldwani",
+    "state": "Uttarakhand",
+    "area": "Uttarakhand",
+    "lat": 29.2183,
+    "lon": 79.513,
+    "zone": "igp"
+  },
+  {
+    "id": "leh-ladakh",
+    "name": "Leh",
+    "state": "Ladakh",
+    "area": "Ladakh",
+    "lat": 34.1526,
+    "lon": 77.5771,
+    "zone": "himalayan"
+  },
+  {
+    "id": "panaji-goa",
+    "name": "Panaji",
+    "state": "Goa",
+    "area": "Goa",
+    "lat": 15.4909,
+    "lon": 73.8278,
+    "zone": "coastal"
+  },
+  {
+    "id": "margao-goa",
+    "name": "Margao",
+    "state": "Goa",
+    "area": "Goa",
+    "lat": 15.2832,
+    "lon": 73.9862,
+    "zone": "coastal"
+  },
+  {
+    "id": "port-blair-andaman-and-nicobar",
+    "name": "Port Blair",
+    "state": "Andaman and Nicobar",
+    "area": "Andaman and Nicobar",
+    "lat": 11.6234,
+    "lon": 92.7265,
+    "zone": "coastal"
+  },
+  {
+    "id": "puducherry-puducherry",
+    "name": "Puducherry",
+    "state": "Puducherry",
+    "area": "Puducherry",
+    "lat": 11.9416,
+    "lon": 79.8083,
+    "zone": "coastal"
+  }
+]
